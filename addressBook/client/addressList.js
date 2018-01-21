@@ -22,7 +22,7 @@ Template.addressList.helpers({
 });
 
 Template.addressList.events({
-    'click button[name=more]' (evt, tmpl) {
+    'click button[name=more]' () {
         Session.set("cnt", Session.get("cnt") + 5);
     }
 });
