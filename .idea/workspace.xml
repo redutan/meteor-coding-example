@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d34ee3fe-d503-4c9e-8287-8c886807f713" name="Default" comment="주소록">
-      <change beforePath="" afterPath="$PROJECT_DIR$/addressBook/client/addressList.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/addressBook/client/addressList.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/addressBook/server/fixture.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/addressBook/server/publish.js" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="d34ee3fe-d503-4c9e-8287-8c886807f713" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/addressBook/.meteor/packages" afterPath="$PROJECT_DIR$/addressBook/.meteor/packages" />
-      <change beforePath="$PROJECT_DIR$/addressBook/.meteor/versions" afterPath="$PROJECT_DIR$/addressBook/.meteor/versions" />
-      <change beforePath="$PROJECT_DIR$/addressBook/client/main.html" afterPath="$PROJECT_DIR$/addressBook/client/main.html" />
-      <change beforePath="$PROJECT_DIR$/addressBook/client/main.js" afterPath="$PROJECT_DIR$/addressBook/client/main.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fixture.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fixture.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/addressBook/server/fixture.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="2121" column="3" lean-forward="false" selection-start-line="2121" selection-start-column="3" selection-end-line="2121" selection-end-column="3" />
+            <state relative-caret-position="193">
+              <caret line="2106" column="28" lean-forward="false" selection-start-line="2106" selection-start-column="28" selection-end-line="2106" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -74,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addressList.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="addressList.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/addressBook/client/addressList.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="-243">
+              <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#template#1;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#template#1;n#!!top" expanded="true" />
@@ -235,7 +226,7 @@
           <expand>
             <path>
               <item name="meteor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addressBook" type="462c0819:PsiDirectoryNode" />
+              <item name="waggleChat" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -372,31 +363,38 @@
       <option name="presentableId" value="Default" />
       <updated>1516421834345</updated>
       <workItem from="1516421835903" duration="593000" />
-      <workItem from="1516422570644" duration="7173000" />
+      <workItem from="1516422570644" duration="8099000" />
     </task>
+    <task id="LOCAL-00001" summary="주소록">
+      <created>1516469456470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516469456470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7766000" />
+    <option name="totallyTimeSpent" value="8692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31197098" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31197098" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24177396" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24177396" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -525,10 +523,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/addressBook/server/fixture.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="2106" column="28" lean-forward="false" selection-start-line="2106" selection-start-column="28" selection-end-line="2106" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/addressBook/client/addressList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state relative-caret-position="-243">
+          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#template#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#template#1;n#!!top" expanded="true" />
@@ -536,14 +542,6 @@
             <element signature="n#style#0;n#input#0;n#td#3;n#tr#0;n#template#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#td#4;n#tr#0;n#template#1;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addressBook/server/fixture.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="2121" column="3" lean-forward="false" selection-start-line="2121" selection-start-column="3" selection-end-line="2121" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
