@@ -1,0 +1,45 @@
+<template name="regPost">
+    <div class="row">
+        <h4 class="text-center">
+            <button class="btn btn-default" name="writePost">새 포스트 작성하기
+                <i class="glyphicon glyphicon-pencil"></i>
+            </button>
+        </h4>
+        <div class="modal-dialog" style="display: none">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title">새 포스트 작성하기</h3>
+                </div>
+                <div class="modal-body">
+                    <div>
+                        <div class="form-group">
+                            <label>제목</label>
+                            <input type="text" class="form-control" placeholder="제목을 입력하세요"/>
+                        </div>
+                        <div class="form-group">
+                            <label>이미지</label>
+                            <div class="well">
+                                <p class="help-block">아래에서 업로드할 이미지를 선태갛세요</p>
+                            </div>
+                            <div class="well">
+                                <input name="file-upload" type="file"/>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label>내용</label>
+                            <textarea class="editable" placeholder="내용을 작성하세요"></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" name="cancel" class="btn btn-warning">
+                        <i class="glyphicon glyphicon-remove"></i> 취소(닫기)
+                    </button>
+                    <button type="button" name="save" class="btn btn-info">
+                        <i class="glyphicon glyphicon-ok"></i> 저장
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
